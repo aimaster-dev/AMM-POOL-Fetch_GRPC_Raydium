@@ -14,5 +14,5 @@ This project is designed to fetch state information from Raydium AMM Pools. Give
   - Pool Marketcap
   - Off-chain Swap
 
-## Contact
-Telegram: https://t.me/idioRusty
+## Author
+[AnotherRusty](https://t.me/idioRusty)

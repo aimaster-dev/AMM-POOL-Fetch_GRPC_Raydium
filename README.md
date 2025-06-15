@@ -15,4 +15,4 @@ This project is designed to fetch state information from Raydium AMM Pools. Give
   - Off-chain Swap
 
 ## Author
-[AnotherRusty](https://t.me/idioRusty)
+[aimaster-dev](https://t.me/aimasterdev)
